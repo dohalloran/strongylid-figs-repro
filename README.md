@@ -35,9 +35,7 @@ python scripts/make_figs.py --share-zip data/share.zip --outdir outputs/figures
 
 Outputs:
 
-- `outputs/figures/Figure2.png`
-- `outputs/figures/Figure4.png`
-- `outputs/figures/Figure5.png`
+- `outputs/figures/FigureX.png`
 
 ## Notes
 
