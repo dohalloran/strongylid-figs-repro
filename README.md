@@ -45,7 +45,3 @@ Outputs:
   `PRI_RPM = 1e6 * (sum genus new_est_reads passing filters) / (nonhost_reads)`
   where `nonhost_reads = unclassified_reads + root_classified_reads` from each `.kreport`.
 
-
-### Manifest note
-
-Some `share.zip` bundles may not include `meta/srr_manifest.txt`. If so, place the manifest next to the zip (e.g. `data/srr_manifest.txt`) and pass `--manifest data/srr_manifest.txt`.
